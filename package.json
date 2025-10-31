@@ -1,0 +1,17 @@
+{
+  "name": "Dstat Bot By Andrax",
+  "version": "1.0.0",
+  "description": "Elkontole",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Andrax C2",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
